@@ -20,6 +20,6 @@ Have Ruby Installed.
 
 ## Description
 
-I create this project to have a basic way to demonstrate ruby code outside of [https://repl.it/@henriflame](outside of my repl).
+I create this project to have a basic way to demonstrate ruby code outside of [Outside of my repl account](https://repl.it/@henriflame) .
 
 Tests are done in rspec for basic coverage.
